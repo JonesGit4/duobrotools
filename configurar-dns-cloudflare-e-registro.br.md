@@ -1,8 +1,7 @@
 # Configurar DNS  Cloudflare e Registro.br
 
 **Creation Date:** Jul 17, 2025\
-**Created By:** Jones Lauriano\
-
+**Created By:** Jones Lauriano<br>
 
 ***
 
@@ -126,8 +125,7 @@
 
 ![Step 27 screenshot](https://images.tango.us/workflows/648c0c6a-0e71-424a-a292-fa4f2e4151ae/steps/756a45b3-1495-451a-abc9-363fd155d5d6/9668ee01-a4dd-4d69-adc4-252a729e2ecd.png?crop=focalpoint\&fit=crop\&fp-x=0.4510\&fp-y=0.7179\&fp-z=1.2690\&w=1200\&border=2%2CF4F2F7\&border-radius=8%2C8%2C8%2C8\&border-radius-inner=8%2C8%2C8%2C8\&blend-align=bottom\&blend-mode=normal\&blend-x=0\&blend-w=1200\&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmstdjIucG5n\&mark-x=228\&mark-y=419\&m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTQlMkNGRjc0NDImdz03NDMmaD03MyZmaXQ9Y3JvcCZjb3JuZXItcmFkaXVzPTEw)
 
-\
-
+<br>
 
 ***
 

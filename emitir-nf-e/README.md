@@ -12,7 +12,7 @@
 
 #### 1. Link
 
-[https://nfpaulistana.prefeitura.sp.gov.br/](https://nfpaulistana.prefeitura.sp.gov.br/)
+[https://nfe.prefeitura.sp.gov.br/contribuinte/nota.aspx](https://nfe.prefeitura.sp.gov.br/contribuinte/nota.aspx)
 
 ![Step 1 screenshot](https://images.tango.us/workflows/911eeb38-7390-402f-9820-7e70aba9aeaa/steps/00530fb2-6a3a-4fd0-a6e7-497d9be4dd5d/c51d0ce1-da41-49d1-8316-45a784c9baf0.png?crop=focalpoint\&fit=crop\&fp-x=0.5000\&fp-y=0.5000\&w=1200\&border=2%2CF4F2F7\&border-radius=8%2C8%2C8%2C8\&border-radius-inner=8%2C8%2C8%2C8\&blend-align=bottom\&blend-mode=normal\&blend-x=0\&blend-w=1200\&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmstdjIucG5n)
 
@@ -74,8 +74,7 @@ Mensalidade 01/12 Setup 01/01" ![Step 10 screenshot](https://images.tango.us/wor
 
 ![Step 15 screenshot](https://images.tango.us/workflows/911eeb38-7390-402f-9820-7e70aba9aeaa/steps/de75b740-13b3-4858-a070-d7975f4f8beb/82deeb7c-6c7b-400b-8b4b-8cc66a20cf67.png?crop=focalpoint\&fit=crop\&fp-x=0.5503\&fp-y=0.0532\&fp-z=2.4843\&w=1200\&border=2%2CF4F2F7\&border-radius=8%2C8%2C8%2C8\&border-radius-inner=8%2C8%2C8%2C8\&blend-align=bottom\&blend-mode=normal\&blend-x=0\&blend-w=1200\&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmstdjIucG5n\&mark-x=447\&mark-y=62\&m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTQlMkNGRjc0NDImdz0zMDYmaD02NCZmaXQ9Y3JvcCZjb3JuZXItcmFkaXVzPTEw)
 
-\
-
+<br>
 
 ***
 

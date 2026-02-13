@@ -1,8 +1,7 @@
 # Google Search Console Add Domínio e user Proprietário
 
 **Creation Date:** Jul 17, 2025\
-**Created By:** Jones Lauriano\
-
+**Created By:** Jones Lauriano<br>
 
 ***
 
@@ -72,8 +71,7 @@
 
 ![Step 15 screenshot](https://images.tango.us/workflows/50eb485f-a72d-460e-b520-2f55b7c4704f/steps/aceb7363-ad92-407e-9317-48dd42405256/c42a7b49-6fd2-45b1-8f6e-123f27746dce.png?crop=focalpoint\&fit=crop\&fp-x=0.5912\&fp-y=0.4215\&fp-z=1.2256\&w=1200\&border=2%2CF4F2F7\&border-radius=8%2C8%2C8%2C8\&border-radius-inner=8%2C8%2C8%2C8\&blend-align=bottom\&blend-mode=normal\&blend-x=0\&blend-w=1200\&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmstdjIucG5n\&mark-x=121\&mark-y=130\&m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTQlMkNGRjc0NDImdz05NTgmaD00NDkmZml0PWNyb3AmY29ybmVyLXJhZGl1cz0xMA%3D%3D)
 
-\
-
+<br>
 
 ***
 
